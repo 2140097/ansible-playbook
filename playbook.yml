@@ -1,0 +1,7 @@
+---
+- hosts: target-machine
+  tasks:
+  - name: Create folder using File Module
+    file:
+     state: directory
+     path: /samplefolder/
