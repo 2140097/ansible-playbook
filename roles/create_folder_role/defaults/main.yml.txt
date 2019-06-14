@@ -1,0 +1,3 @@
+foldername: "samplefolder"
+folderlocation: "/tmp/{{ folderlocation }}"
+folder2name: "samplefolderusingshellmodule"
